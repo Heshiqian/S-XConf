@@ -1,7 +1,9 @@
+[![](https://jitpack.io/v/Heshiqian/S-XConf.svg)](https://jitpack.io/#Heshiqian/S-XConf)
+
 # S-XConf
 一种配置文件解析
 
-预计支持Properties、XML、Conf文件
+预计支持Properties、XML、Conf文件，
 Conf文件应该是这样的：
 ```
 [root]
